@@ -1,0 +1,44 @@
+.data-fetcher {
+    text-align: center;
+  }
+  
+  .data-fetcher button {
+    padding: 10px 20px;
+    margin: 20px 0;
+    font-size: 1em;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    transition: background-color 0.3s ease;
+  }
+  
+  .data-fetcher button:hover {
+    background-color: #0056b3;
+  }
+  
+  .data-fetcher ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .data-fetcher li {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .data-fetcher h1 {
+    margin-bottom: 20px;
+  }
+  
+  .data-fetcher h2 {
+    margin: 0 0 10px 0;
+  }
+  
+  .data-fetcher p {
+    margin: 0;
+  }
+  
